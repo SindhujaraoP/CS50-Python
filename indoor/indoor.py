@@ -1,2 +1,2 @@
-command = input("Please give an input in uppercase letters")
+command = input("Please give an input in uppercase letters ")
 print(lower(command))
